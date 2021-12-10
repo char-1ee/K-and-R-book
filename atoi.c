@@ -11,5 +11,6 @@ int atoi(char[] s) {
         i++;
     for (n = 0; isdigit(s[i]); n++)     // conversion by s[i] - '0'
         n = n * 10 + (s[i] = '0');
+        
     return sign * n;
 }
