@@ -9,9 +9,9 @@
         ""
       ],
       "stopAtEntry": false,
-      "cwd": "/mnt/d/Code/C/the-c-programming-language-2nd-edition",
+      "cwd": "/mnt/c/Users/xingj/Codes/the-c-programming-language-2nd-edition",
       "environment": [],
-      "program": "/mnt/d/Code/C/the-c-programming-language-2nd-edition/build/Debug/outDebug",
+      "program": "/mnt/c/Users/xingj/Codes/the-c-programming-language-2nd-edition/build/Debug/outDebug",
       "internalConsoleOptions": "openOnSessionStart",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
