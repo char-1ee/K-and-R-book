@@ -10,7 +10,7 @@ int atoi(char[] s) {
     if (s[i] == '+' || s[i] == '-')     // skip sign 
         i++;
     for (n = 0; isdigit(s[i]); n++)     // conversion by s[i] - '0'
-        n = n * 10 + (s[i] = '0');
+        n = n * 10 + (s[i] - '0');
         
     return sign * n;
 }
